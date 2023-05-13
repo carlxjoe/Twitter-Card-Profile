@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20% 2%;
+    margin: 0% 10%;
+    background-color: #423030
+}
+
+container {
+    position: absolute;
+    background-color: #ffff;
+    width: 800px;
+    height: 300px;
+    border-radius: 2%;
+}
+
+.ppbd {
+    position: fixed;
+    width: 10%;
+    border-radius: 20%;
+    border: solid #ffff;
+    top: 30%;
+    left: 15%;
+}
+
+.nickname {
+    position: fixed;
+    padding: 4.5% 3%;
+}
+
+.username {
+    position: fixed;
+    padding: 8% 3%;
+    font-size: 100%;
+    opacity: 40%;
+}
+
+
+p {
+    position: fixed;
+    padding: 10% 3%;
+}
+
+.blue {
+    color: rgb(0, 102, 255);
+    position: fixed;
+    padding: 13.6% 3%;
+    text-decoration: none;
+}
+
+.translate {
+    color: rgb(0, 102, 255);
+    font-size: 90%;
+    position: fixed;
+    padding: 15.6% 3%;
+    text-decoration: none;
+}
+
+.fol {
+    position: fixed;
+    padding: 17.5% 3%;
+    font-size: 120%;
+}
+
+.foltxt {
+    position: fixed;
+    padding: 17.5% 4.8%;
+    font-size: 95%;
+}
+
+.fol2 {
+    position: fixed;
+    padding: 17.5% 12%;
+    font-size: 120%;
+}
+
+.foltxt2 {
+    position: fixed;
+    padding: 17.5% 17%;
+    font-size: 95%;
+}
+
+.verif {
+    width: 2.5%;
+    position: fixed;
+    padding: 6% 10.5%;
+}
+
+.btn {
+    position: fixed;
+    background-color: black;
+    border-radius: 20%;
+    color: #ffff;
+    width: 5%;
+    height: 8%;
+    left: 50%;
+    top: 49%;
+}
+
+.btn:hover {
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.more {
+    position: fixed;
+    border-radius: 50%;
+    border: solid #00000000;
+    width: 2%;
+    padding: 2% 50%;
+}
