@@ -7,7 +7,7 @@ With css and Html
 ## SCREENSHOT
 (Here)
 
-## VIEW (Here)[https://github.com/]
+## VIEW [Here](https://github.com/)
 
 
 
